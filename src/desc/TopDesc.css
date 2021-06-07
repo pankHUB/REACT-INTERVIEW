@@ -1,0 +1,28 @@
+.TopDesc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90vw; 
+  height: 10vh;
+}
+.UndoBatch {
+  margin : 5px;
+  border-radius: 5px;
+  background-color:blue;
+  font-size: 20px;
+  padding: 5px;
+}
+.AssignSuppliers {
+  margin : 5px;
+  border-radius: 5px;
+  background-color:blue;
+  font-size: 20px;
+  padding: 5px;
+}
+.GeneratePO {
+  margin : 5px;
+  border-radius: 5px;
+  background-color:blue;
+  font-size: 20px;
+  padding: 5px;
+}
